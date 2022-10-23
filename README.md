@@ -4,7 +4,7 @@
 
 Hi, my name is Asdrubal, I'm from Venezuela.
 
-- 🔭 I’m currently working on [Rappi](https://co.linkedin.com/company/rappi "Rappi's Linkedin Profile")
+- 🔭 I’m currently working at [Rappi](https://co.linkedin.com/company/rappi "Rappi's Linkedin Profile")
 
 - I'm focused on backend technologies but I can do frontend as well
 
